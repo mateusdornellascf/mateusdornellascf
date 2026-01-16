@@ -1,22 +1,12 @@
 <h1 align="center">👨‍💻 Back-end Developer | Backend Developer</h1>
 
 <p align="center">
-Estudante de Ciência da Computação e desenvolvedor Back-end com foco em APIs RESTful, fundamentos sólidos e soluções bem estruturadas.
+Computer Science student and Back-end developer focused on RESTful APIs, solid fundamentals, and well-structured solutions.
 </p>
 
 ---
 
-### 👤 Sobre mim
-
-* 🎓 Estudante de **Ciência da Computação**
-* 💼 Back-end Developer no **SERPRO**
-* ☕ Desenvolvimento com **Java e Spring Boot**
-* 🔌 Criação de **APIs REST / RESTful**
-
-
----
-
-### 🛠️ Linguagens, Frameworks e Tecnologias
+### 🛠️ Languages, Frameworks & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -38,19 +28,16 @@ Estudante de Ciência da Computação e desenvolvedor Back-end com foco em APIs 
 </div>
 
 ---
+### 👤 About me:
 
-## 🟡 Pac-Man Contribution Graph
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusdornellascf/mateusdornellascf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusdornellascf/mateusdornellascf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateusdornellascf/mateusdornellascf/output/pacman-contribution-graph.svg">
-</picture>
+* 🎓 **Computer Science** Student at CESAR School
+* 💼 Back-end Developer @ **SERPRO**  
+* ☕ Development with **Java and Spring Boot**  
+* 🔌 Building **REST / RESTful APIs**
 
 ---
 
-### 📫 Contato
+### 📫 Connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mateus-dornellas" target="_blank">
